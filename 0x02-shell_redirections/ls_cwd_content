@@ -1,0 +1,15 @@
+total 88
+drwxr-xr-x  14 wangariminyu  staff  448 Mar  7 09:37 .
+drwxr-xr-x   7 wangariminyu  staff  224 Mar  7 08:54 ..
+-rwxr-xr-x   1 wangariminyu  staff   32 Mar  7 08:57 0-hello_world
+-rwxr-xr-x   1 wangariminyu  staff   28 Mar  7 09:03 1-confused_smiley
+-rwxr-xr-x   1 wangariminyu  staff   28 Mar  7 09:05 2-hellofile
+-rwxr-xr-x   1 wangariminyu  staff   39 Mar  7 09:08 3-twofiles
+-rwxr-xr-x   1 wangariminyu  staff   33 Mar  7 09:11 4-lastlines
+-rwxr-xr-x   1 wangariminyu  staff   33 Mar  7 09:14 5-firstlines
+-rwxr-xr-x   1 wangariminyu  staff   40 Mar  7 09:18 6-third_line
+-rwxr-xr-x   1 wangariminyu  staff   80 Mar  7 09:33 7-file
+-rwxr-xr-x   1 wangariminyu  staff   36 Mar  7 09:37 8-cwd_state
+-rw-r--r--   1 wangariminyu  staff   23 Mar  7 08:56 README.md
+-rw-r--r--   1 wangariminyu  staff   12 Mar  7 09:33 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 wangariminyu  staff    0 Mar  7 09:37 ls_cwd_content
