@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Script that displays numbers from 1 to 20
+# If 4 then bad luck from China
+# If 9 then bad luck from Japan
+# If 17 then bad luck from Italy
+
+number=1
+while [ $number -lt 21 ];
+do
+	if [ $number -eq 4 ];
+	then
+		echo "bad luck from China"
+	elif [ $number -eq 9 ];
+	then
+		echo "bad luck from Japan"
+	elif [ $number -eq 17 ];
+	then
+		echo "bad luck from Italy"
+	else
+		echo $number
+	fi
+	let number+=1
+done
